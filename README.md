@@ -1,2 +1,2 @@
 # Müütiline Paradiis TO-DO nimekiri
-MParadiis serverito-do nimekiri.
+MParadiis serveri to-do nimekiri.
